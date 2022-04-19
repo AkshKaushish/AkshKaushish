@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshKaushish
-- 👀 I’m interested in ...learing new technologies
+- 👀 I’m interested in ...learning new technologies
 - 🌱 I’m currently learning ...Backend(Python and Django) and Frontend(HTML, CSS, javascript, Bootstrap) and SQL.
 - 💞️ I’m looking to collaborate on ...a good software company as Software Engineer
 - 📫 How to reach me ...akshkaushish@gmail.com
